@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "297501466821",
+    "firebase_url": "https://assignmentgroceryproject-default-rtdb.firebaseio.com",
+    "project_id": "assignmentgroceryproject",
+    "storage_bucket": "assignmentgroceryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297501466821:android:a3cd97291f48e5a77b50ac",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTxXp5aqVMcKbNWpS5vs6qF6RDyB5Dhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
